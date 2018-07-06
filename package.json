@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wji29787/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wji29787/blog/issues"
+  },
+  "homepage": "https://github.com/wji29787/blog#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "koa": "^2.5.1",
+    "mysql": "^2.15.0"
+  }
+}
