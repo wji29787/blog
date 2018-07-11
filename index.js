@@ -53,7 +53,7 @@ const app = new Koa();
 
   //路由
 
-  app.use(require('./routers/signin.js').routes());
+  app.use(require('./routers/signup').routes());
   
 
   app.listen(3000);

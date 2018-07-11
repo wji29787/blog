@@ -11,4 +11,4 @@ const consfig={
     }
 };
 
-module.exports=config
+module.exports=consfig
